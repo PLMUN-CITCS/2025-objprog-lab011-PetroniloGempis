@@ -1,7 +1,7 @@
 //Import Scanner and Create Class Structure
 import java.util.Scanner;
 
-public class NumberClassifiedMenu {
+public class NumberClassifierMenu {
     public static void main(String[] args) {
 
         //Create Scanner Object and Choice Variable
